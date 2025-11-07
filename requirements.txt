@@ -1,0 +1,7 @@
+Streamlit
+Tensorflow
+Numpy
+Pandas
+Scikit-Learn
+Torch
+Transformers
